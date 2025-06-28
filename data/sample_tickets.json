@@ -1,0 +1,22 @@
+[
+  {
+    "ticket_id": "T001",
+    "text": "My internet is not working since morning."
+  },
+  {
+    "ticket_id": "T002",
+    "text": "There is no internet connection at my home."
+  },
+  {
+    "ticket_id": "T003",
+    "text": "I forgot my account password and need help resetting it."
+  },
+  {
+    "ticket_id": "T004",
+    "text": "Please assist with password recovery for my account."
+  },
+  {
+    "ticket_id": "T005",
+    "text": "How can I upgrade my plan to premium?"
+  }
+]

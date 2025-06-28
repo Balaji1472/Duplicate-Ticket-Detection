@@ -1,0 +1,11 @@
+[
+  {
+    "feedback_id": "4d54d670-936f-4a4b-aef5-631911213ca7",
+    "timestamp": "2025-06-28T17:44:58.495285",
+    "ticket_id": "T006",
+    "matched_ticket_id": "T007",
+    "is_correct_duplicate": true,
+    "user_comment": "perfectly identified the duplicate ticket",
+    "confidence_score": null
+  }
+]
