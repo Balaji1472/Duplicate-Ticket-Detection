@@ -1,6 +1,24 @@
+# Core API framework
 fastapi
 uvicorn
+pydantic-settings
+
+# Machine Learning and NLP
 transformers
 torch
 scikit-learn
+sentence-transformers
+
+# Text processing
 spacy
+langdetect
+
+# Data handling
+python-multipart
+numpy
+pandas
+
+# Development and testing
+pytest
+pytest-asyncio
+httpx
