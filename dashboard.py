@@ -169,7 +169,7 @@ elif page == "Check Duplicates":
         ticket_id = st.text_input("Ticket ID", placeholder="e.g., TKT-001")
         text = st.text_area("Ticket Description", placeholder="Enter the ticket description...")
         language = st.selectbox("Language (optional)", 
-                               ["Auto-detect", "en", "es", "fr", "de", "it", "pt", "hi", "zh"])
+                               ["Auto-detect", "en", "es", "fr", "de", "it", "pt", "hi", "zh","ta"])
         
         submitted = st.form_submit_button("Check Duplicates")
         
