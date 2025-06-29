@@ -124,7 +124,7 @@ httpx
 ## 📌 Feedback & Contributions
 
 Feel free to fork, improve, or suggest enhancements.
-For issues, create a GitHub issue or contact: **[support@example.com](balajirama.2005@gmail.com)**
+For issues, create a GitHub issue or contact: **[balajirama.2005@gmail.com]**
 
 ---
 
