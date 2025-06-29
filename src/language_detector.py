@@ -26,19 +26,7 @@ class LanguageDetector:
         'pt': 'Portuguese',
         'hi': 'Hindi',
         'zh': 'Chinese',
-        'zh-cn': 'Chinese (Simplified)',
-        'zh-tw': 'Chinese (Traditional)',
-        'ar': 'Arabic',
-        'ru': 'Russian',
-        'ja': 'Japanese',
-        'ko': 'Korean',
-        'nl': 'Dutch',
-        'sv': 'Swedish',
-        'da': 'Danish',
-        'no': 'Norwegian',
-        'fi': 'Finnish',
-        'pl': 'Polish',
-        'tr': 'Turkish'
+        'ta': 'Tamil'
     }
     
     def __init__(self):
