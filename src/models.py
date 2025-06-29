@@ -18,6 +18,7 @@ class SupportedLanguage(str, Enum):
     PORTUGUESE = "pt"
     HINDI = "hi"
     CHINESE = "zh"
+    TAMIL = "ta"
 
 class TicketInput(BaseModel):
     """Model for single ticket input with language support"""
