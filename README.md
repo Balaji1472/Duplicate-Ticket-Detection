@@ -3,7 +3,12 @@
 A powerful FastAPI-based application for detecting and managing duplicate support tickets using semantic similarity with transformer embeddings. Includes multilingual support, clustering, feedback collection, and a web dashboard.
 
 ---
+## 🎥 Demo Video
 
+**Watch the complete workflow demonstration:**
+[📹 View Demo Video](https://drive.google.com/file/d/1v24sCjPyts6tKuME5gg7jy2gzDEPEDqq/view?usp=sharing)
+
+---
 ## 🚀 Features
 
 * 🔍 **Semantic Duplicate Detection** using Sentence Transformers
