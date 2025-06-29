@@ -13,7 +13,7 @@ class Settings(BaseSettings):
     similarity_threshold: float = 0.8
     
     # Multilingual settings
-    supported_languages: list = ["en", "es", "fr", "de", "it", "pt", "hi", "zh"]
+    supported_languages: list = ["en", "es", "fr", "de", "it", "pt", "hi", "zh","ta"]
     auto_detect_language: bool = True
     
     # Clustering settings
