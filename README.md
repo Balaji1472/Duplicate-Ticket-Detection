@@ -116,6 +116,10 @@ python-multipart
 numpy
 pandas
 
+# Visualization and Dashboard
+streamlit
+plotly
+
 # Development and testing
 pytest
 pytest-asyncio
